@@ -242,5 +242,14 @@
       "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769152508.417307,
+    "completed_at": 1769152511.187027,
+    "comments": [
+      "The files contain the wrong readings!"
+    ],
+    "status": "Incomplete"
   }
 ]
