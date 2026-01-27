@@ -305,5 +305,14 @@
       "The merge has not been undone properly."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769514304.417847,
+    "completed_at": 1769514307.636002,
+    "comments": [
+      "The main branch does not contain the expected commits."
+    ],
+    "status": "Incomplete"
   }
 ]
